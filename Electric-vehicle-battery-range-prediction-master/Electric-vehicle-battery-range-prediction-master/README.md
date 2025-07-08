@@ -1,9 +1,3 @@
-![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
-![BUILD STATUS](https://img.shields.io/badge/Build-passing-yellow.svg)
-![License](https://img.shields.io/badge/license-Apache%202-red.svg)
-![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-blue.svg)
-![obsesve](https://img.shields.io/badge/observatory-A%2B-lightgrey.svg)
-
 ## Introduction
 
 The purpose of this document is to provide an overview of the approach used for
