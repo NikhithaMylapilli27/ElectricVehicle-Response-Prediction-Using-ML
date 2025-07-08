@@ -328,8 +328,6 @@ The output contain prediction results, transformed data, model metrics and train
 <hr>
 
 <b>Created by :</b>
-<b><i> Anubhav Shukla </i></b>
+<b><i> Nikhitha Mylapilli </i></b>
 </br>
 </br>
-![anubhav](https://img.shields.io/badge/Anubhav-%402019-orange.svg)
-![status](https://img.shields.io/badge/Status-up-green.svg)
